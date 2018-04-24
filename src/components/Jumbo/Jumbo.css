@@ -1,0 +1,14 @@
+.jumbotron {
+    background-image: url('./sailormoon.jpg');
+    background-size: contain;
+    color: #fff;
+}
+
+.overlay{
+    height: 100%;
+    width: 100%;
+}
+
+h1 {
+    font-size: 50px;
+}
